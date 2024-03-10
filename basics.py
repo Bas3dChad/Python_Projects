@@ -1,9 +1,9 @@
 #Basic strings
 
 """
-my_name = 'hamdan'
+my_name = 'manhit'
 my_nationality = 'USA'
-#last_name = 'sheikh'city_orgin = 'chicago'
+#last_name = '69'city_orgin = 'chicago'
 print(my_name, last_name, city_orgin, my_nationality)
 
 number = 123
@@ -208,10 +208,10 @@ elif marks >= 70:
 # This is my code
 
     """
-hamdan = 15
-osama = 22
+manhit = 15
+SirDoom = 22
 
-if hamdan == 15 and osama == 22:
+if SirDoom == 15 and osama == 22:
     print("Both are students")  
 
     x = 10
